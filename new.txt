@@ -1,2 +1,6 @@
 This Is New Text File
+<<<<<<< HEAD
 Changes In Local
+=======
+Changes In Remote
+>>>>>>> 2ef094fabc8f76549b307e9aa15537887a6f03fc
